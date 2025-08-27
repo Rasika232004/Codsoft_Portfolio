@@ -7,7 +7,7 @@ a {
     position: fixed;
     left: 0;
     top: 0;
-    width: 70%;
+    width: 100%;
     overflow: hidden;
     z-index: 100;
     display: flex;
